@@ -321,7 +321,5 @@ $objQuery4= mysql_query($strSQL4) or die ("Error Query [".$strSQL4."]");
  </tbody>
 </table>
 
-
-
 </BODY>
 </HTML>
