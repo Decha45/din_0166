@@ -1,0 +1,9 @@
+{
+    "type": "ftp",
+    "host": "ftp.pkorat.com",
+    "username": "pkorat",
+    "password": "dec298",
+    "port": 1021,
+    "remotePath": "/domains/pkorat.com/public_html/",
+    "uploadOnSave": false
+}
